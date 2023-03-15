@@ -50,6 +50,6 @@ function power(n, e) {
 // E.g. ordered(1, 2, 3, 4) is true but ordered(1, 2, 4, 3) is false
 
 function reverse(a, b, c, d) {
-         array = ['a', 'b', 'c', 'd']
+
          return array.reverse()
 }
